@@ -6,5 +6,7 @@ public class DepartmentController {
         	 System.out.println(i+"is the value");
              String s = "hello";
              System.out.println(s+" welcome to sspringboot");
+             String name = "department";
+             System.out.println("This is the "+name+" controller");
           }
 }
